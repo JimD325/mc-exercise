@@ -1,1 +1,3 @@
 This is what happens when you don't do a git pull origin main, for real this time
+
+Act 2 of the conflict drama...
